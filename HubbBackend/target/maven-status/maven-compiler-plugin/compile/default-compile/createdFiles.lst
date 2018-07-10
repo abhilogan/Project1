@@ -1,0 +1,13 @@
+com\niit\dao\UserInfoDAO.class
+com\niit\dao\BlogDAOImpl.class
+com\niit\model\Friends.class
+com\niit\model\UserInfo.class
+com\niit\model\BlogComment.class
+com\niit\dao\BlogCommentDAO.class
+com\niit\model\Blog.class
+com\niit\dao\UserInfoDAOImpl.class
+com\niit\config\DataBaseConfiguration.class
+com\niit\dao\FriendsDAOImpl.class
+com\niit\dao\BlogCommentDAOImpl.class
+com\niit\dao\BlogDAO.class
+com\niit\dao\FriendsDAO.class
